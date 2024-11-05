@@ -7,7 +7,6 @@
 <body>
 <h1>Agustin Gonzalez Romero</h1>
 <p>Bienvenido al párrafo personal de Agustin Gonzalez Romero.</p>
-<p>Bienvenido al párrafo personal de Agustin Gonzalez.</p>
 
 <h1>Rodrigo Moreno Martín</h1>
 <p>Bienvenido al párrafo personal de Rodrigo Moreno Martín.</p>
